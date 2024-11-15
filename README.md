@@ -6,7 +6,7 @@ To start using this tap, you'll need to install [Homebrew](https://brew.sh) if y
 
 1. Add the Sysinternals tap:
    ```bash
-   brew tap sysinternals/sysinternalstap
+   brew tap Microsoft/sysinternalstap
    
 1. Install individual Sysinternals tools:
    ```bash
