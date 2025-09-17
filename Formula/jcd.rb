@@ -1,4 +1,4 @@
-class jcd < Formula
+class Jcd < Formula
     desc "jcd (jump change directory) is a command-line tool that provides enhanced directory navigation with substring matching and smart selection. It's like the cd command, but with superpowers! jcd is part of the Sysinternals tool suite."
     homepage "https://learn.microsoft.com/en-us/sysinternals/downloads/jcd"
   
