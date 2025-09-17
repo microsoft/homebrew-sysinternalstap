@@ -11,4 +11,13 @@ class Jcd < Formula
       bin.install "jcd"
       bin.install "jcd_function.sh"
     end
+
+    def caveats
+      <<~EOS
+        To enable jcd in your shell, source the jcd_function.sh file:
+
+          source /opt/homebrew/bin/jcd_function.sh
+      EOS
+    end
+    
   end
