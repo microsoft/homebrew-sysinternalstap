@@ -1,6 +1,6 @@
 cask "zoomit" do
   version "12.2.0"
-  sha256 "b629ebc9f4e7531acb7545c4c38b9843ecdea57771909a81e88806e23020e5ae"
+  sha256 "f424aff998c1415434f7e08d9e92461366e6dd9194ab6fa6a9f1a08a03ee43c0"
 
   url "https://github.com/microsoft/ZoomitForMac/releases/download/#{version}/ZoomIt-12.2.0.dmg"
   name "ZoomIt"
