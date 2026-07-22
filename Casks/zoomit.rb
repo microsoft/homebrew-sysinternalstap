@@ -7,7 +7,7 @@ cask "zoomit" do
   desc "Screen zoom, annotation, capture, and recording utility"
   homepage "https://github.com/microsoft/ZoomitForMac"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "ZoomIt.app"
 
