@@ -1,8 +1,8 @@
 cask "zoomit" do
-  version "12.2.0"
-  sha256 "f424aff998c1415434f7e08d9e92461366e6dd9194ab6fa6a9f1a08a03ee43c0"
+  version "12.21.0"
+  sha256 "5e7c3b2f5a3bd030483a3c7e03b9e199ebb574c22f9cf7295bc78763a646d663"
 
-  url "https://github.com/microsoft/ZoomitForMac/releases/download/#{version}/ZoomIt-12.2.0.dmg"
+  url "https://github.com/microsoft/ZoomitForMac/releases/download/#{version}/ZoomIt-12.21.0.dmg"
   name "ZoomIt"
   desc "Screen zoom, annotation, capture, and recording utility"
   homepage "https://github.com/microsoft/ZoomitForMac"
